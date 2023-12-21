@@ -13,8 +13,12 @@ div {
  padding:10px;
  margin🔢;
  borde:4px}
- div.selected { border:dashed blue;
+ width: 20px;
+ height:30px;
+ float:30px; 
+
 </style>
+
  <p> askjdaskldjkasdskadjasdjklas
 
 <body>
