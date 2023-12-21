@@ -8,11 +8,11 @@
 
 <style>
 div {
- color💙;
- background color🐈‍⬛;
+ color black;
+ background color blue;
  padding:10px;
  margin🔢;
- borde:4px}
+ borde:4px
  width: 20px;
  height:30px;
  float:left; 
