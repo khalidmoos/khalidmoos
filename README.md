@@ -13,13 +13,31 @@ div {
  padding:10px;
  margin🔢;
  borde:4px}
- div.selected { border:dashed blue ;
+ div.selected { border:dashed blue;
 </style>
  <p> askjdaskldjkasdskadjasdjklas
 
 <body>
- <h1<Velkkommen til  It </h1>
-  <h1 class="selected">
+  <div onclick="trykk(this)<7>/div>
+   <div onclick="trykk(this)<1>/div>
+   <div onclick="trykk(this)<2>/div>
+    
+   <div onclick="trykk(this)<5>/div>
+   <div onclick="trykk(this)<>/div>
+   div onclick="trykk(this)<3>/div>
+    
+   <div onclick="trykk(this)<8>/div>
+   <div onclick="trykk(this)<4>/div>
+    <div onclick="trykk(this)<6>/div>
+
+  
+  <script>
+   function trykk (tagelemt) [
+    tagelement. innerhtlm='x';
+    document.getelementbyld(overskrift').innerhtlm='du har trykket'+teller+'ganger';
+ 
+   
+   <h1 class="selected">
    
   </div>
 
