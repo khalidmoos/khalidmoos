@@ -8,7 +8,12 @@
 
 <style>
 div {
- color💙;}
+ :color💙;
+ background color🐈‍⬛;
+ padding:10px;
+ margin🔢;
+ border🇸🇧;
+ 
 </head>
  
 </style>
