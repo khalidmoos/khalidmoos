@@ -1,5 +1,6 @@
 <htlm> 
- <head></head>
+ <head>
+  
  hjemmeside
   <title>hei å hå </title>
   <h1> dag en med story play <h1/>
