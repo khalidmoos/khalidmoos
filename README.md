@@ -7,7 +7,7 @@
 
 
 <style>
-{div
+div{
  color💙;}
  
  
