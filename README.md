@@ -13,16 +13,19 @@ div {
  padding:10px;
  margin🔢;
  border🇸🇧;}
- 
-</head>
- 
+  
 </style>
  <p> askjdaskldjkasdskadjasdjklas
 
-<body></body>
+<body>
+ <h1<Velkkommen til  It </h1>
+  
+
+
  <h2>velkommen til nettsiden min   </h2>
  <p></p> asjkdasjksjadasjldaskldjsakld
  kasjdlkasjdlkasjldkjasd
 ksajldlasjdkasjdaskjdaskl <p/>
 
 
+</body>
