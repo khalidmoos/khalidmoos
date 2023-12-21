@@ -12,15 +12,16 @@ div {
  background color🐈‍⬛;
  padding:10px;
  margin🔢;
- border🇸🇧;}
-  
+ borde:4px}
+ div.selected { border:dashed blue ;
 </style>
  <p> askjdaskldjkasdskadjasdjklas
 
 <body>
  <h1<Velkkommen til  It </h1>
-  
-
+  <h1 class="selected">
+   
+  </div>
 
  <h2>velkommen til nettsiden min   </h2>
  <p></p> asjkdasjksjadasjldaskldjsakld
