@@ -12,7 +12,7 @@ div {
  background color🐈‍⬛;
  padding:10px;
  margin🔢;
- border🇸🇧;
+ border🇸🇧;}
  
 </head>
  
