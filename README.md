@@ -7,7 +7,7 @@
 
 <style>
 {h2
- color:red;}
+ color💙;}
  
  
 </style>
