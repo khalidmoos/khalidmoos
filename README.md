@@ -15,8 +15,11 @@ div {
  borde:4px}
  width: 20px;
  height:30px;
- float:30px; 
+ float:left; 
+ }
 
+ div.firstpålinja}
+ clear:left;
 </style>
 
  <p> askjdaskldjkasdskadjasdjklas
@@ -26,11 +29,11 @@ div {
    <div onclick="trykk(this)<1>/div>
    <div onclick="trykk(this)<2>/div>
     
-   <div onclick="trykk(this)<5>/div>
+   <div class_"førstpålinja"onclick="trykk(this)<5>/div>
    <div onclick="trykk(this)<>/div>
    div onclick="trykk(this)<3>/div>
     
-   <div onclick="trykk(this)<8>/div>
+   <div div class_"førstpålinja"onclick="trykk(this)<8>/div>
    <div onclick="trykk(this)<4>/div>
     <div onclick="trykk(this)<6>/div>
 
