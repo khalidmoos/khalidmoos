@@ -43,6 +43,15 @@
 
 <button class="button button1">Green</button>
 <button class="button button2">Blue</button>
+<button class="button button3">Blue</button>
+
+<button class="button button4">Blue</button>
+<button class="button button5">Blue</button>
+<button class="button button6">Blue</button>
+
+<button class="button button7">Blue</button>
+<button class="button button8">Blue</button>
+<button class="button button9">Blue</button>
 
 </body>
 </html>
