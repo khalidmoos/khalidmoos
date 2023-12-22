@@ -1,57 +1,48 @@
-<htlm> 
- <head>
-  
- hjemmeside
-  <title>hei å hå </title>
-  <h1> dag en med story play <h1/>
-
-
+<!DOCTYPE html>
+<html>
+<head>
 <style>
-div {
- color black;
- background color blue;
- padding:10px;
- margin🔢;
- borde:4px
- width: 20px;
- height:30px;
- float:left; 
- }
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
 
- div.firstpålinja}
- clear:left;
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #04AA6D;
+}
+
+.button1:hover {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
 </style>
-
- <p> askjdaskldjkasdskadjasdjklas
-
+</head>
 <body>
-  <div onclick="trykk(this)<7>/div>
-   <div onclick="trykk(this)<1>/div>
-   <div onclick="trykk(this)<2>/div>
-    
-   <div class_"førstpålinja"onclick="trykk(this)<5>/div>
-   <div onclick="trykk(this)<>/div>
-   div onclick="trykk(this)<3>/div>
-    
-   <div div class_"førstpålinja"onclick="trykk(this)<8>/div>
-   <div onclick="trykk(this)<4>/div>
-    <div onclick="trykk(this)<6>/div>
 
-  
-  <script>
-   function trykk (tagelemt) [
-    tagelement. innerhtlm='x';
-    document.getelementbyld(overskrift').innerhtlm='du har trykket'+teller+'ganger';
- 
-   
-   <h1 class="selected">
-   
-  </div>
-
- <h2>velkommen til nettsiden min   </h2>
- <p></p> asjkdasjksjadasjldaskldjsakld
- kasjdlkasjdlkasjldkjasd
-ksajldlasjdkasjdaskjdaskl <p/>
-
+<button class="button button1">Green</button>
+<button class="button button2">Blue</button>
 
 </body>
+</html>
